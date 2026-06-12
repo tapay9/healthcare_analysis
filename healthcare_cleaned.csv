@@ -1,51 +1,51 @@
 Patient_ID,Age,Gender,Race,Height_cm,Weight_kg,BMI,Blood_Pressure,Cholesterol,Glucose,Heart_Rate,Smoking_Status,Alcohol_Use,Exercise_Frequency,Diabetes,Hypertension,Heart_Disease,Medication_Count,Hospital_Visits_Last_Year,Insurance_Type,Income_Level,City,Admission_Date,Discharge_Date,Length_of_Stay,Total_Hospital_Cost,Readmitted_30_Days
-P0001,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0001,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0002,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0003,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0004,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0005,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0006,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0003,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0004,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0005,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0006,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0007,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0008,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0009,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0010,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0011,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0008,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0009,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0010,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0011,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0012,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0013,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0014,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0015,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0016,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0013,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0014,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0015,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0016,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0017,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0018,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0019,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0020,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0021,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0018,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0019,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0020,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0021,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0022,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0023,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0024,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0025,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0026,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0023,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0024,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0025,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0026,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0027,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0028,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0029,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0030,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0031,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0028,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0029,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0030,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0031,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0032,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0033,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0034,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0035,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0036,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0033,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0034,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0035,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0036,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0037,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0038,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0039,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0040,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0041,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0038,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0039,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0040,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0041,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0042,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0043,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0044,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0045,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
-P0046,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,TRUE,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
+P0043,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0044,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0045,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0046,72,Male,Black,174,92,30.4,148/92,241,132,88,Former,Occasional,Low,Yes,Yes,Yes,6,4,Medicare,Low, Baltimore ,2026-01-04,2026-01-11,7,"$14,220.50",Yes
 P0047,29,Female,White,165,61,22.4,118/76,176,91,72,Never,Unknown,High,No,No,No,0,0,Private,Medium,Boston,2026-01-08,2026-01-10,2,"$3,180.00",No
-P0048,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Y,yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
-P0049,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
-P0050,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,TRUE,Y,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
+P0048,64,Male,Hispanic,68,98,32.9,145/88,263,142,91,Current,Occasional,Low,Yes,Yes,Yes,5,3,Medicaid,Low,New York,2026-01-11,2026-01-18,7,"$13,750.75",Yes
+P0049,45,Female,Asian,160,77,30.1,132/84,198,126,80,Never,Occasional,Medium,Yes,No,No,2,1,Private,Medium,Chicago,2026-01-12,2026-01-16,4,"$7,930.20",No
+P0050,83,Male,Black,171,88,30.1,156/95,255,151,94,Former,Unknown,Low,Yes,Yes,Yes,8,5,Medicare,Low,Detroit,2026-01-15,2026-01-25,10,"$21,400.90",Yes
