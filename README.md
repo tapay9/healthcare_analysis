@@ -314,9 +314,9 @@ The setup instructions should be verified in a fresh environment before the repo
 - [x] Model Evaluation
 - [x] Interactive Streamlit Dashboard
 - [x] Executive Summary and Analytical Findings
-- [ ] Interactive Dashboard GIF
-- [ ] Reproducibility Verification
-- [ ] Final GitHub Repository Review
+- [x] Interactive Dashboard GIF
+- [x] Reproducibility Verification
+- [x] Final GitHub Repository Review
 
 ## Data Source
 
