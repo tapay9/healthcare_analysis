@@ -175,15 +175,16 @@ The model demonstrates modest predictive discrimination and is not suitable for 
 
 The project includes a Streamlit dashboard designed to communicate healthcare utilization patterns and predictive modeling results.
 
+### Dashboard Demo
+
+![Healthcare Readmission Analytics Dashboard](assets/healthcare_dashboard_demo.gif)
+
 ### Hospital Overview
 
 - Interactive age-group filtering
 - Dynamic encounter and readmission metrics
 - Readmission rates by age group
 - Readmission rates by previous inpatient visits
-- Readmission rates by hospital length of stay
-- Readmission rates by medication count
-- Key analytical findings
 
 ### Model Performance
 
@@ -313,7 +314,7 @@ The setup instructions should be verified in a fresh environment before the repo
 - [x] Model Evaluation
 - [x] Interactive Streamlit Dashboard
 - [x] Executive Summary and Analytical Findings
-- [ ] Dashboard Screenshots
+- [ ] Interactive Dashboard GIF
 - [ ] Reproducibility Verification
 - [ ] Final GitHub Repository Review
 
